@@ -1,7 +1,6 @@
 # Arduino
 [![hackmd-github-sync-badge](https://hackmd.io/hXwUK2IzSA6LMVtYUQkTGw/badge)](https://hackmd.io/hXwUK2IzSA6LMVtYUQkTGw)
 
-Markdown on HackMD [Link](https://hackmd.io/@jasonliu424/ntuee_micro_course)
 ## Morse code light sensor
 
 ### Code File
