@@ -2,6 +2,32 @@
 [![hackmd-github-sync-badge](https://hackmd.io/hXwUK2IzSA6LMVtYUQkTGw/badge)](https://hackmd.io/hXwUK2IzSA6LMVtYUQkTGw)
 ## Morse code light sensor
 
+### Code File
+
+* **final project:**
+
+[identifylist2.ino](https://github.com/jason810496/Arduino-/blob/main/identifylist2.ino)
+
+[input_keypad_output_led_45.ino](https://github.com/jason810496/Arduino-/blob/main/input_keypad_output_led_45.ino)
+
+[input_serial_output_led_45.ino ](https://github.com/jason810496/Arduino-/blob/main/input_serial_output_led_45.ino)
+
+(45 means 4.5sec per unit)
+
+**(4.5sec per unit is much more accurate than 3.0sec per unit)**
+
+* **others**
+
+[LightStrength.ino](https://github.com/jason810496/Arduino-/blob/main/LightStrength.ino) **(distinguish light strength and print it on keypad)**
+
+[identifylist.ino](https://github.com/jason810496/Arduino-/blob/main/identifylist.ino)
+
+[input_keypad_output_led_30.ino](https://github.com/jason810496/Arduino-/blob/main/input_keypad_output_led_30.ino)
+
+[input_serial_output_led_30.ino](https://github.com/jason810496/Arduino-/blob/main/input_serial_output_led_30.ino)
+
+(30 means 3.0sec per unit)
+
 ### 想法:
 **Arduino(A)**
 負責輸出摩斯電碼的LED訊號
