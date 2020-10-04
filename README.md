@@ -10,7 +10,8 @@
 
 **方法?**
 1. (A)在發送每段訊號前,先輸出一段==特定序列==
-讓(B)知道何時開始接收
+ 讓(B)知道何時開始接收
+
 2. (B)每0.1秒判斷一次環境亮度,加入一==固定陣列==中,
  再與0-9的陣列做比較
 
@@ -58,28 +59,48 @@
 >```
 ### 總結
 * **接收**
+
 最後採取**方法2**,不過在判別數字時
 還是有一定的機率會將**相鄰的數字**判別錯誤(畢竟數字0-9的Morse code 每個差異不大:++相鄰數字只有差一長或一短++)
 例如:(A)發送123 而(B)接收12**4**
+
 * **發送**
 發送摩斯密碼前,需要先輸入資料
+
 所以我們開發兩個版本
+
 **1.** 在**序列埠監控視窗**輸入(Serial)
+
 **2.** 在**數字板**(Keypad)
+
 ### 影片
+
 * **succeed**
+
 在序列埠視窗
+
 [succeed1](https://youtu.be/j82o2HINAhA)
+
 [succeed2](https://youtu.be/oXgZXIjwEqw)
+
 在七段顯示器
+
 [succeed3](https://youtu.be/KZLupLYp92o)
+
 * **failed**
+
 ++幸運的話只差一位++
+
 [fail1](https://www.youtube.com/watch?v=t1xPoWfHwOA)
+
 也有可能少讀一位
+
 [fail2](https://www.youtube.com/watch?v=XyY-_XKlXDw)
+
 甚至差兩位
+
 [fail3](https://www.youtube.com/watch?v=JDl9t69nRSw)
+
 ### 照片
 * **Arduino(A)**
 ![](https://i.imgur.com/dACVFuD.jpg)
@@ -87,31 +108,72 @@
 
 * **Arduino(B)**
 ![](https://i.imgur.com/RekYpIY.jpg)
+
 ### 元件:
 
   **Light**
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ![](https://i.imgur.com/GdJzMKk.jpg)
+
 ![](https://i.imgur.com/mi9K9Zx.jpg)
 
 
   **電阻**
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ![](https://i.imgur.com/2gpPDgA.jpg)
 
 
  **感光元件**(光敏電阻)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ![](https://i.imgur.com/LIS62CI.jpg)
+
 ![](https://i.imgur.com/zUKk1Sz.jpg)
 
+
  **七段顯示器**
+ 
 ![](https://i.imgur.com/MASTk3E.jpg)
+
 ![](https://i.imgur.com/CJY0Tb5.jpg)
 
+
  **數字板**
+ 
 ![](https://i.imgur.com/UHY54ek.jpg)
 
  **小麵包板**
+ 
  ![](https://i.imgur.com/KCCcvMp.jpg)
+ 
  **USB**
+ 
 ![](https://i.imgur.com/opOI7wU.jpg)
 
 
