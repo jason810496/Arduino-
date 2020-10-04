@@ -69,17 +69,17 @@
 ### 影片
 * **succeed**
 在序列埠視窗
-{%youtube j82o2HINAhA %}
-{%youtube oXgZXIjwEqw %}
+[succeed1](https://youtu.be/j82o2HINAhA)
+[succeed2](https://youtu.be/oXgZXIjwEqw)
 在七段顯示器
-{%youtube KZLupLYp92o %}
+[succeed3](https://youtu.be/KZLupLYp92o)
 * **failed**
 ++幸運的話只差一位++
-{%youtube t1xPoWfHwOA %}
+[fail1](https://www.youtube.com/watch?v=t1xPoWfHwOA)
 也有可能少讀一位
-{%youtube XyY-_XKlXDw %}
+[fail2](https://www.youtube.com/watch?v=XyY-_XKlXDw)
 甚至差兩位
-{%youtube JDl9t69nRSw %}
+[fail3](https://www.youtube.com/watch?v=JDl9t69nRSw)
 ### 照片
 * **Arduino(A)**
 ![](https://i.imgur.com/dACVFuD.jpg)
@@ -89,35 +89,31 @@
 ![](https://i.imgur.com/RekYpIY.jpg)
 ### 元件:
 
-:::spoiler  **Light**
+  **Light**
 ![](https://i.imgur.com/GdJzMKk.jpg)
 ![](https://i.imgur.com/mi9K9Zx.jpg)
 
-:::
-:::spoiler  **電阻**
-![](https://i.imgur.com/2gpPDgA.jpg)
-:::
 
-:::spoiler **感光元件**(光敏電阻)
+  **電阻**
+![](https://i.imgur.com/2gpPDgA.jpg)
+
+
+ **感光元件**(光敏電阻)
 ![](https://i.imgur.com/LIS62CI.jpg)
 ![](https://i.imgur.com/zUKk1Sz.jpg)
 
-:::
-:::spoiler **七段顯示器**
+ **七段顯示器**
 ![](https://i.imgur.com/MASTk3E.jpg)
 ![](https://i.imgur.com/CJY0Tb5.jpg)
 
-:::
-:::spoiler **數字板**
+ **數字板**
 ![](https://i.imgur.com/UHY54ek.jpg)
 
-:::
-:::spoiler **小麵包板**
+ **小麵包板**
  ![](https://i.imgur.com/KCCcvMp.jpg)
-:::
-:::spoiler **USB**
+ **USB**
 ![](https://i.imgur.com/opOI7wU.jpg)
-:::
+
 
 
 
