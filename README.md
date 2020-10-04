@@ -1,4 +1,5 @@
 # Arduino
+[![hackmd-github-sync-badge](https://hackmd.io/hXwUK2IzSA6LMVtYUQkTGw/badge)](https://hackmd.io/hXwUK2IzSA6LMVtYUQkTGw)
 ## Morse code light sensor
 
 ### 想法:
