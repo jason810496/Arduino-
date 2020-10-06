@@ -1,7 +1,7 @@
 # Arduino
 [![hackmd-github-sync-badge](https://hackmd.io/hXwUK2IzSA6LMVtYUQkTGw/badge)](https://hackmd.io/@jasonliu424/ntuee_micro_course)
 
-## Morse code light sensor
+## Morse Code Light Sensor
 
 ### Code File
 
@@ -48,7 +48,8 @@
 
 ![](https://i.imgur.com/z9qBq8W.jpg)
 
-
+### 模擬圖
+![](https://i.imgur.com/04t7YQ5.jpg)
 
 * **Method 1**
 > 開一個**固定陣列**(NowArray)**用來判斷何時接收訊號**
