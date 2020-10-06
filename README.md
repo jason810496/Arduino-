@@ -43,6 +43,13 @@
 2. (B)每0.1秒判斷一次環境亮度,加入一**固定陣列**中,
  再與0-9的陣列做比較
 
+### 流程圖
+![](https://i.imgur.com/YoFxCKl.jpg)
+
+![](https://i.imgur.com/z9qBq8W.jpg)
+
+
+
 * **Method 1**
 > 開一個**固定陣列**(NowArray)**用來判斷何時接收訊號**
 > 再開另一個陣列準備接收訊號(DataList)
